@@ -16,7 +16,7 @@
  ### Principais Habilidades:
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" heignt="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" height="30" width="40" src="https://user-images.githubusercontent.com/3423282/123478002-3e01fc80-d5d5-11eb-983d-d8aaa7ead156.png">
    
@@ -24,8 +24,8 @@
 
   ### Estudando no momento:
 <div style="display: inline_block"><br>
-  <img align="center" heignt="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  
 </div>
